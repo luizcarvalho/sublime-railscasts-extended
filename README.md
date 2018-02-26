@@ -28,7 +28,7 @@ If you already have [Package Control](http://wbond.net/sublime_packages/package_
 Go to `Preferences -> Browse Packages`, and then either download and unzip this plugin into that directory, or:
 
 ``` bash
-git clone https://github.com/jzelenkov/sublime-railscasts-extended.git "sublime-railscasts-extended"
+git clone https://github.com/luizcarvalho/sublime-railscasts-extended.git "sublime-railscasts-extended"
 ```
 
 ### 2. Switch Themes
